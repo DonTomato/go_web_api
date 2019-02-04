@@ -1,0 +1,8 @@
+{
+  "AppPort": 8382,
+  "Host": "localhost",
+  "DBPort": 5432,
+  "Database": "mydb",
+  "User": "mv",
+  "Password": "pwd"
+}

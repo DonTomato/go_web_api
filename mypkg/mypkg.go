@@ -6,6 +6,7 @@ type TestModel struct {
 	Name string
 }
 
+// Te is just a func
 func Te() int {
 	return 0
 }
